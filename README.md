@@ -7,13 +7,13 @@ https://bioinformaticsworkbook.org/dataAnalysis/VariantCalling/gbs-data-snp-call
 
 However some details of the scripts will be different from the online tutorial due to the differences in the computing resource. This is also a minimum pipeline where we only use one single fastq file as our input to reduce the total time need to test this pipeline on ARC. Change this pipeline to a pipeline that can analyze 91 or more fastq files should be relatively straight forward. 
 
-##Step 0. Download fastq data.
+## Step 0. Download fastq data.
 
-##Step 1. Rename fastq data and create symbolic link.
+## Step 1. Rename fastq data and create symbolic link.
 
-##Step 2. Download genome and create bowtie2 index.
+## Step 2. Download genome and create bowtie2 index.
 
-##Step 3. Run tassel pipeline. 
+## Step 3. Run tassel pipeline. 
 
 
 
